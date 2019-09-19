@@ -1,0 +1,25 @@
+{
+  "name": "@kahmannf/angular-project-helper",
+  "version": "1.0.0",
+  "description": "A collection of task that can be used to build, publish and manipulate angular projects and workspaces, provided as typescript API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kahmannf/angular-project-helper.git"
+  },
+  "keywords": [
+    "cli",
+    "angular",
+    "ng",
+    "typescript"
+  ],
+  "author": "Felix Kahmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kahmannf/angular-project-helper/issues"
+  },
+  "homepage": "https://github.com/kahmannf/angular-project-helper#readme"
+}
