@@ -1,0 +1,20 @@
+{
+  "name": "angular-project-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kahmannf/angular-project-helper.git"
+  },
+  "author": "Felix Kahmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kahmannf/angular-project-helper/issues"
+  },
+  "homepage": "https://github.com/kahmannf/angular-project-helper#readme"
+}
