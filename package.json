@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/kahmannf/angular-project-helper#readme",
   "devDependencies": {
+    "@types/node": "^12.7.5",
     "typescript": "^3.6.3"
   }
 }
