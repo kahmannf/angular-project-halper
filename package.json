@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kahmannf/angular-project-helper/issues"
   },
-  "homepage": "https://github.com/kahmannf/angular-project-helper#readme"
+  "homepage": "https://github.com/kahmannf/angular-project-helper#readme",
+  "devDependencies": {
+    "typescript": "^3.6.3"
+  }
 }
